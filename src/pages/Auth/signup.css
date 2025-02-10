@@ -1,0 +1,21 @@
+/* signup.css */
+
+.signup-container {
+    margin-top: 50px;
+  }
+  
+  .signup-box {
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  
+  .signup-button {
+    margin-top: 20px;
+  }
+  
+  .signup-container .MuiTypography-h4 {
+    margin-bottom: 20px;
+  }
+  

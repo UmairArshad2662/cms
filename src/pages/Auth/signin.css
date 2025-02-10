@@ -1,0 +1,21 @@
+/* login.css */
+
+.login-container {
+    margin-top: 50px;
+  }
+  
+  .login-box {
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  
+  .login-button {
+    margin-top: 20px;
+  }
+  
+  .login-container .MuiTypography-h4 {
+    margin-bottom: 20px;
+  }
+  
